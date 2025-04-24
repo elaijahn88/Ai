@@ -1,5 +1,5 @@
 <?php
-  $message = "Hello from PHP!";
+  $message = "madbrok!";
   $number = 123;
 ?>
 
