@@ -1,32 +1,23 @@
-<?php
-  $message = "madbrok!";
-  $number = 123;
-?>
+
 
 <!DOCTYPE html>
 <html>
 <head>
-  <title>atomics</title>
+<meta name="description" content=" A next-gen tech company at the intersection of visual, AR, physical, software security, sports, and game advertising—delivering intelligent, immersive, and secure solutions that redefine digital experiences across industries">
+
+  <title>Sports</title>
 </head>
+
+    <style>
+        body{
+            color: blue;
+            background-color: black;
+        }
+        
+        
+    </style>
+    <nav> Arsenal</nav>
+    <img src="ars.png"></img>
 <body>
-  <script>
-    var phpMessage = "<?php echo $message; ?>";
-    var phpNumber = <?php echo $number; ?>;
-
-    console.log(phpMessage);
-    console.log(phpNumber);
-
-    function greet(name) {
-      alert("Hello, " + name + "! (Called from JavaScript)");
-    }
-
-    // PHP can trigger JavaScript functions indirectly by generating the call
-    var shouldGreet = true;
-    if (shouldGreet) {
-      greet("User");
-    }
-  </script>
-
-  <button onclick="print('<p> star</p>')">Atomics</button>
-</body>
-</html>
+    </html>
+  

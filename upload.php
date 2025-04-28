@@ -1,6 +1,6 @@
 <body>
     <style>
-       input{
+       #file{
            color:blue;
            background-color: blue;
        } 
@@ -8,16 +8,15 @@
            color: red;
            background-color: blue;
        }
-       form{
-           background-color: green;
+       
        }
     </style>
     
 </body> <br><br>
-<form action="" method="post" enctype="multipart/form-data">
-  <input type="file" name="file">
-  <button type="submit">Upload File</button>
-</form>
+
+  <input type="file" name="file"id="file">
+  
+
 <?php
 // Define upload directory
 $upload_dir = 'uploads/';
