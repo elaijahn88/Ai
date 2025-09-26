@@ -1,4 +1,53 @@
+............................................................
 
+
++---------------------------------------------------------------+
+|                       Human Oversight                        |
+|   (Ethics, Governance, Kill-Switch, External Auditors)        |
++----------------------------+----------------------------------+
+                             |
++----------------------------v----------------------------------+
+|                   Alignment & Safety Layer                   |
+|   - Value models (CEV, corrigibility, IRL/PE)                 |
+|   - Hard constraints (e.g., do not harm)                      |
+|   - Soft constraints (preference learning, cooperation)       |
++----------------------------+----------------------------------+
+                             |
++----------------------------v----------------------------------+
+|                  Self-Improvement & Monitoring               |
+|   - Recursive model upgrade loop                              |
+|   - Sandbox simulation & evaluation                          |
+|   - Formal verification, rollback, audit trails              |
++----------------------------+----------------------------------+
+                             |
++----------------------------v----------------------------------+
+|               Cognitive Core (Reasoning & Planning)           |
+|   - Hybrid symbolic + neural reasoning                        |
+|   - Hierarchical goal decomposition                           |
+|   - Counterfactual world-model simulations                    |
++----------------------------+----------------------------------+
+                             |
++----------------------------v----------------------------------+
+|        Memory & Knowledge Base (World Model + Context)        |
+|   - Short-term episodic memory                                |
+|   - Long-term knowledge graph + vector memory                 |
+|   - Provenance + uncertainty tracking                         |
++----------------------------+----------------------------------+
+                             |
++----------------------------v----------------------------------+
+|                Perception & Understanding Layer               |
+|   - Multi-modal inputs: text, vision, audio, sensors          |
+|   - Embeddings + abstraction + causal inference               |
++----------------------------+----------------------------------+
+                             |
++----------------------------v----------------------------------+
+|               Action & Environment Interface                  |
+|   - APIs, robotics, communication channels                    |
+|   - Strict access control & human approval gates              |
++---------------------------------------------------------------+
+
+
+............................................................
 Input → Perception → Knowledge → Reasoning → Action → Feedback
 .............................................................
 
